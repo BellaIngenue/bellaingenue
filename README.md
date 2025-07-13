@@ -8,7 +8,7 @@
 🚀 What you'll find here:
 
 - 🎮 Small, fun games I've made for my websites
-- 📊 Data projects (because who doesn’t love finding cool patterns in everyday life?)
+- 📊 Data projects (mostly unfinished and abandoned Psychology Data Projects)
 - 🎉 Random creative experiments!
 - ✨ Unfinished (and probably abandoned) projects and plans
 
